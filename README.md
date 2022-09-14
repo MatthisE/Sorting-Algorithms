@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-a collection of sorting algorithms in Java
+a collection of sorting algorithms implemented in Java
