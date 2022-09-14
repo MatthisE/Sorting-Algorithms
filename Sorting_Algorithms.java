@@ -1,5 +1,3 @@
-package Zusammenfassungen;
-
 public class Sorting_Algorithms {
 
     void bubbleSort(int[] a) {
